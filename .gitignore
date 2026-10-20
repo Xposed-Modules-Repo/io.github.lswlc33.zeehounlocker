@@ -1,0 +1,7 @@
+# 官方仓库里只留说明文件；APK 一律走 Releases 附件
+*.apk
+*.apk.idsig
+
+# 本地临时
+*.tmp
+*.log
